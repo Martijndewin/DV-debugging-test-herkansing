@@ -1,0 +1,95 @@
+Bug report:
+
+Priority levels: Low, Medium, High, Blocker
+
+Bug 1:
+What was wrong: "This is bug 1" was written on top of the screen
+Priority: Low
+Error message (if any): no error message
+What solved the issue?: removing the text from the code
+
+
+Bug 2:
+What was wrong:
+Priority:
+Error message (if any):
+What solved the issue?:
+
+
+Bug 3:
+What was wrong:
+Priority:
+Error message (if any):
+What solved the issue?:
+
+
+Bug 4:
+What was wrong:
+Priority:
+Error message (if any):
+What solved the issue?:
+
+
+Bug 5:
+What was wrong:
+Priority:
+Error message (if any):
+What solved the issue?:
+
+
+Bug 6:
+What was wrong:
+Priority:
+Error message (if any):
+What solved the issue?:
+
+
+Bug 7:
+What was wrong:
+Priority:
+Error message (if any):
+What solved the issue?:
+
+
+Bug 8:
+What was wrong:
+Priority:
+Error message (if any):
+What solved the issue?:
+
+
+Bug 9:
+What was wrong:
+Priority:
+Error message (if any):
+What solved the issue?:
+
+
+Bug 10:
+What was wrong:
+Priority:
+Error message (if any):
+What solved the issue?:
+
+
+Bug 11:
+What was wrong:
+Priority:
+Error message (if any):
+What solved the issue?:
+
+
+Bug 12:
+What was wrong:
+Priority:
+Error message (if any):
+What solved the issue?:
+
+
+Bug 13:
+What was wrong:
+Priority:
+Error message (if any):
+What solved the issue?:
+
+Copy/Paste the template if you find more bugs.
