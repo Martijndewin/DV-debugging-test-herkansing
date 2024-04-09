@@ -1,6 +1,7 @@
 //these items are our products and the stock
-let stock = [10, "seven", 3];
+let stock = [10, 7, 3];
 let normalstock = [];
+let product = [];
 
 //this is how many items we got in our cart
 let cartstock = [0, 0, 0];
@@ -107,7 +108,7 @@ function showhidecart() {
     } else {
         document.getElementById("bottomcontainer").style.display = "block";
         document.getElementById("shoppingcart").style.display = "none";
-        hidden = True;
+        hidden = true;
     }
 }
 
@@ -122,13 +123,13 @@ function loadproducts() {
 }
 
 function checkOut() {
-    // for (let i = 0; i < stock.length; i++) {
-    //     cartstock[i] = 0;
-    //     loadproducts();
-    //     onLoad();
-    //     hidden = true;
-    //     showhidecart();
-    // }
+ for (let i = 0; i < stock.length; i++) {
+     cartstock[i] = 0;
+         loadproducts();
+         onLoad();
+         hidden = true;
+         showhidecart();
+     }
 }
 
 //POPUP-----------------------------------------------------------------------------------------------------------------
@@ -157,7 +158,7 @@ function disablepopUp(){
 //Login system-------------------------------------------------------
 let inputfield = document.getElementById("login");
 let button = document.getElementById("loginbut");
-let name;
+let name = button.value;
 
 function logIn(){
     name = button.value;

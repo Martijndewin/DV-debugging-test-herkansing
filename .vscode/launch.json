@@ -11,12 +11,6 @@
             "url": "${workspaceFolder}/index.html",
         },
         {
-            "name": "Launch Firefox",
-            "request": "launch",
-            "type": "firefox",
-            "url": "${workspaceFolder}/index.html",
-        },
-        {
             "name": "Launch Edge",
             "request": "launch",
             "type": "msedge",
