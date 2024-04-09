@@ -388,13 +388,13 @@ a:hover {
 .icon-badge {
     background-color: red;
     font-size: 12px;
-    color: white;
+    color: rgb(255, 255, 255);
     text-align: center;
     width:20px;
     height:20px;
     border-radius: 100%;
     position: absolute;
-    top: 10px;
+    top: 0px;
     left: 0px;
 }
 .CartImage{
